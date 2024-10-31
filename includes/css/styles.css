@@ -1,0 +1,18 @@
+#tnj-pvp-dashboard-info > .inside strong {
+	font-weight: 600;
+}
+#tnj-pvp-dashboard-info > .inside .header {
+	text-decoration: underline;
+}
+#tnj-pvp-dashboard-info > .inside .sub_header {
+	text-decoration: underline;
+	padding-top: 5px;
+}
+#tnj-pvp-dashboard-info > .inside ul {
+	list-style: none;
+	padding: 0;
+	margin: 5px 0 10px 0;
+}
+#tnj-pvp-dashboard-info > .inside ul > li {
+	margin: 0;
+}
